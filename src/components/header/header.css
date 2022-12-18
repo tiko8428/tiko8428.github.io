@@ -1,0 +1,33 @@
+.header_container {
+  width: 100vw;
+  height: 60px;
+  display: flex;
+  background-color: rgba(90, 95, 231, 255);
+}
+
+.header_logo_wrapper {
+  height: 100%;
+  display: flex;
+}
+
+.header_logo_text_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header_logo_text_container span {
+  color: #fff;
+}
+
+.header_title__main {
+  font-size: 18px;
+}
+
+.header_title__secondary {
+  font-size: 14px;
+}
+
+/* .header_logo_wrapper > img{
+
+} */
